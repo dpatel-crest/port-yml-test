@@ -1,0 +1,9 @@
+- identifier: some_identifier
+  title: Some Title From GitHub Repo
+  team: []
+  icon: DefaultBlueprint
+  blueprint: dhr_test
+  properties:
+    new_title_property: string
+  relations: {}
+
